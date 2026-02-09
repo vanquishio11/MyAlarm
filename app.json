@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router",
+      "expo-sqlite"
+    ],
+    "name": "MyAlarm",
+    "slug": "MyAlarm",
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "208ac0c8-4a3b-4086-a081-b79d49bf3ca1"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "app.blueberry6519.moonstone9738",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    }
+  }
+}
